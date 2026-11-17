@@ -1,0 +1,10 @@
+[
+  {
+    "id": "demo-mouse",
+    "title": "Mouse sem fio (exemplo fictício)",
+    "price_brl": 99.9,
+    "affiliate_url": "https://example.com/affiliate/demo",
+    "source": "demonstração",
+    "description": "Descrição ilustrativa, não é uma oferta real."
+  }
+]

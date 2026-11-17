@@ -1,0 +1,5 @@
+[
+  {"platform": "instagram", "account_id": "REPLACE_ME", "token_env": "AUTOMATA_INSTAGRAM_TOKEN", "enabled": false},
+  {"platform": "facebook", "account_id": "REPLACE_ME", "token_env": "AUTOMATA_FACEBOOK_TOKEN", "enabled": false},
+  {"platform": "tiktok", "account_id": "REPLACE_ME", "token_env": "AUTOMATA_TIKTOK_TOKEN", "enabled": false}
+]
