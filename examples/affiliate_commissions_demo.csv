@@ -1,0 +1,4 @@
+program,transaction_id,product_id,campaign_tag,status,sale_amount_brl,commission_amount_brl,occurred_at
+mercado_livre,DEMO-001,MLB-DEMO-1,tiktokmlbdemo1,pending,100.00,5.00,2026-11-17
+mercado_livre,DEMO-002,MLB-DEMO-2,instagrammlbdemo2,paid,200.00,10.00,2026-11-17
+mercado_livre,DEMO-003,MLB-DEMO-3,facebookmlbdemo3,refunded,50.00,2.50,2026-11-17
