@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*.mp4
+*.mov
+*.mkv
+output/
+logs/
+secrets/
